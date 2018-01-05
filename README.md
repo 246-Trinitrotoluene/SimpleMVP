@@ -1,6 +1,15 @@
 # SimpleMVP
 > 针对mvp框架的封装
 
+<p align="center">
+    <a href="http://www.apache.org/licenses/LICENSE-2.0">
+        <img src="http://img.shields.io/badge/License-Apache%202.0-blue.svg?style=flat-square" alt="License" />
+    </a>
+    <a>
+        <img src="https://img.shields.io/badge/API-14-blue.svg?style=flat-square" alt="License" />
+    </a>
+</p>
+
 ## 原理说明
 MVP框架分为M、V、P三层，其中，需要在P层完成APP的功能实现，包括：在M层的具体业务逻辑，和在V层的视图显示。在本项目的封装中，主要聚焦在P层和V层的绑定上。
 ## 使用方法
